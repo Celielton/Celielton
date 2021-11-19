@@ -1,9 +1,9 @@
 ## ✉️ Find me on:
 
 
-<p align="center">
- <a href="https://www.linkedin.com/in/celielton-ramalho/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="C#" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:celieltonr@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+<p align="left">
+ <a href="https://www.linkedin.com/in/celielton-ramalho/" target="_blank" rel="noopener noreferrer"> <img src="https://pc.zoznam.sk/sites/default/files/resize/2021-10/linkedin-logo-700x369.png" alt="C#" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:celieltonr@gmail.com"> <img src="https://marcas-logos.net/wp-content/uploads/2020/01/Gmail-logo-Cor.jpg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 <!--
